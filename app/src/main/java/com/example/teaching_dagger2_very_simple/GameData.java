@@ -7,5 +7,8 @@ package com.example.teaching_dagger2_very_simple;
  */
 
 public class GameData {
-    public final String hello = "Hello Dagger";
+    public final String firstString  = "I'm TextView 1";
+    public final String secondString = "I'm TextView 2";
+    public final String thirdString  = "I'm TextView 3";
+
 }
